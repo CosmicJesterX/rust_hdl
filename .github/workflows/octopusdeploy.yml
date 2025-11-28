@@ -1,0 +1,8 @@
+            - name: Altostra Login
+  # You may pin to the exact commit or the version.
+  # uses: altostra/login-action@cb9ac7f984b14dddffdbcf156fd35ffb466084a3
+  uses: altostra/login-action@v1.0.0
+  with:
+    # An Altostra API token from https://app.altostra.com/settings/tokens
+    api-token: 
+          
